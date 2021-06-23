@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Aldair André, and I am a Front End Developer, i’m currently learning Javascript, UX/UI :octocat:.
+
 <!--
 **aldairandre/aldairandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
