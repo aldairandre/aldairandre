@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Aldair André and I'm a Front End Web Developer.</br>
+Doing my degree in Computer Engineering, in Angola.
 Currently I'm learning everything that can increase my knowledge in this beautiful and big world of programming.</br>
 
 ### Skills
